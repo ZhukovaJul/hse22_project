@@ -8,7 +8,7 @@
 <h3> Геномы </h3>
 
 | Вид  | GC (%)| Уровень сборки ||
-|---|---|---|---|---|
+|---|---|---|---|
 |Eimeria maxima  | 46,6| Scaffold |GCF/000/499/605/GCF_000499605.1_EMW001|
 |Eimeria acervulina  | 48,3 | Scaffold  |GCF/000/499/425/GCF_000499425.1_EAH001|
 |Eimeria necatrix|51  |Scaffold |GCF/000/499/385/GCF_000499385.1_ENH001 |
