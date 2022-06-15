@@ -3,8 +3,8 @@
 https://colab.research.google.com/drive/1hegZ85mNp1HjqTfPNXzLhMFYb1xbH3Tl?usp=sharing
 
 <h3> Ссылка на файлы </h3> 
-Так как некоторые файлы большие по размеру, загрузила все в папку на google диск
-Ссылка: 
+Так как некоторые файлы большие по размеру, загрузила все в папку на google диск <br>
+Ссылка: https://drive.google.com/drive/folders/1rXSDBjPom_IOqaoncNwQSw10UzY6DACs?usp=sharing
 
 <h3> Геномы </h3>
 
